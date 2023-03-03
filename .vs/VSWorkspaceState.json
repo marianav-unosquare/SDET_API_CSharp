@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\SDETAPI_CSharp",
+    "\\SDETAPI_CSharp\\SDETAPI_CSharp",
+    "\\SDETAPI_CSharp\\SDETAPI_CSharp\\Features",
+    "\\SDETAPI_CSharp\\SDETAPI_CSharp\\Requests",
+    "\\SDETAPI_CSharp\\SDETAPI_CSharp\\Requests\\HealthCareGov",
+    "\\SDETAPI_CSharp\\SDETAPI_CSharp\\Requests\\NasaOpenAPI",
+    "\\SDETAPI_CSharp\\SDETAPI_CSharp\\Tests"
+  ],
+  "SelectedNode": "\\SDETAPI_CSharp",
+  "PreviewInSolutionExplorer": false
+}
